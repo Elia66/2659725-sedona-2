@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Эльвира Камалова](https://up.htmlacademy.ru/htmlcss-individual/2/user/2659725).
-* Наставник: `Неизвестно`.
+* Наставник: [Мария Филиппова] (https://htmlacademy.ru/profile/wonderjs).
 
 ---
 
