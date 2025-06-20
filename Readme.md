@@ -2,7 +2,7 @@
 
 * Студент: [Эльвира Камалова](https://up.htmlacademy.ru/htmlcss-individual/2/user/2659725).
 * Наставник: [Мария Филиппова] (https://htmlacademy.ru/profile/wonderjs).
-
+* Сайт: [Мой проект Седона] (https://elia66.github.io/2659725-sedona-2/).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
